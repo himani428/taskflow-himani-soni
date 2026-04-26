@@ -90,7 +90,7 @@ Use the following credentials:
 
 ```
 Email: himani@test.com  
-Password: 123456
+Password: password123
 ```
 
 ---
